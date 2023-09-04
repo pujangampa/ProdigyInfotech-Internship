@@ -1,0 +1,2 @@
+Demonstrated strong data acquisition, data processing, and Python programming skills, showcasing the ability to collect and prepare data for analysis, research, and reporting purposes. This project emphasizes proficiency in web scraping techniques and data manipulation for real-world applications.
+uses web scraping techniques to gather essential product information, such as product names, prices, and ratings, directly from the website's product listings. The extracted data is then organized and stored in a structured format, such as a CSV file. 
