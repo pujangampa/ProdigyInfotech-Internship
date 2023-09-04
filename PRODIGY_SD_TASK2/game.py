@@ -1,3 +1,7 @@
+# Task 2
+# Pujan Gampa
+# Prodigy Infotech 
+
 import random
 
 def guess_the_number():
